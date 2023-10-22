@@ -1,0 +1,5 @@
+Crear una carpeta toda rara en los controladores.
+Recién creada, usar este comando mounstruoso. Estoy seguro que algo está mal con el...:
+rails g controller api/v1/articles index show create update destroy --skip-helper --skip-assets --skip-template-engine --skip-test-framework
+Generar un modelo hehe
+rails g model article title:string body:text author:string --skip-helper --skip-assets --skip-template-engine --skip-test-framework
